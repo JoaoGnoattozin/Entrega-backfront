@@ -1,6 +1,3 @@
-Perfeito! Aqui está o **README.md completo em texto único**, pronto para você colar no seu GitHub:
-
----
 
 # Projeto Mensal 4 – Sistema com Interface Gráfica em Java Swing
 
